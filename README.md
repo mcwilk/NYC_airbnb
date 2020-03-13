@@ -40,6 +40,7 @@ Project is: _finished_
 
 ## Sources
 Dataset comes from: https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
+
 Web scraping from: https://en.wikipedia.org/wiki/Neighborhoods_in_New_York_City
 
 ## Contact
